@@ -1,0 +1,7 @@
+require("config.providers")
+require("config.options")
+require("config.keymaps")
+require("config.autocmds")
+require("config.clipboard")
+require("config.lsp")
+require("config.lazy")
